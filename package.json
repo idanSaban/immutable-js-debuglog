@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "easy logging immutable-js objects as plain JavaScript Arrays and Objects",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idanSaban/immutable-js-debuglog.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

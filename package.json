@@ -1,6 +1,6 @@
 {
   "name": "immutable-js-debuglog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "easy logging immutable-js objects as plain JavaScript Arrays and Objects",
   "main": "index.js",
   "repository": {

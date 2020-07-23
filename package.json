@@ -1,0 +1,11 @@
+{
+  "name": "immutable-js-debuglog",
+  "version": "1.0.0",
+  "description": "easy logging immutable-js objects as plain JavaScript Arrays and Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "idan saban",
+  "license": "ISC"
+}

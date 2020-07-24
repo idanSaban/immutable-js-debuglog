@@ -10,6 +10,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "immutable",
+    "js",
+    "console",
+    "debug",
+    "log"
+  ],
   "author": "idan saban",
   "license": "ISC"
 }
